@@ -6,7 +6,7 @@
 }
 @media screen and (min-width:767px){
     body {
-        background-color:black
+        background-image:url("https://c.wallhere.com/photos/81/01/1920x1080_px_General-534992.jpg!d");
     }
 .important {
     color:orangered;
@@ -28,26 +28,26 @@
 .sidebar {
     float:left;
     width:50%;
-    background-color:rgb(24, 23, 23);
+    background-color:black;
     color: white;
     font-size:medium;
 }
 .sidebar2 {
     float:right;
     width: 90%;
-    background-color: orangered;
+    background-color: rgb(22, 20, 20);
     font-size: large;
 
 }
 .testbox {
-    border:2px solid orangered;
+    border:2px solid grey;
     padding:30px;
     margin:2px;
     background-color:black;
     float:left
 }
 .testbox2 {
-     border:10px solid black;
+     border:3px solid black;
      padding:18px;
      margin:2px;
      background-color:orangered;
@@ -64,7 +64,7 @@
 .ending{
     float: left;
     width:100%;
-    background-color:black;
+    background-color:none;
     font-size: large;
     font-weight: bold;
     color:red;
