@@ -8,7 +8,7 @@
     body {
         background-image:url("https://c.wallhere.com/photos/81/01/1920x1080_px_General-534992.jpg!d");
     }
-.important {
+.maincontent {
     color:orangered;
     font: 1em sans-serif;
     font-size:medium;
@@ -39,14 +39,14 @@
     font-size: large;
 
 }
-.testbox {
+.textbox {
     border:2px solid grey;
     padding:30px;
     margin:2px;
     background-color:black;
     float:left
 }
-.testbox2 {
+.textbox2 {
      border:3px solid black;
      padding:18px;
      margin:2px;
