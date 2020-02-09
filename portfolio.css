@@ -1,7 +1,7 @@
 @media screen and (min-width:480px) and (max-width:767px){
     body {
-        background-color:black;
-        color: white;
+        background-color:orangered;
+        color: black;
     }
 }
 @media screen and (min-width:767px){
@@ -49,6 +49,7 @@
      background-color:orangered;
      float:right
 }
-.h {
-    font-size:medium
+.hobby {
+    font-size:medium;
+    text-decoration: underline;
 }
