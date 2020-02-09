@@ -40,7 +40,8 @@
     border:10px solid orangered;
     padding:30px;
     margin:2px;
-    background-color:black
+    background-color:black;
+    float:left
 }
 .testbox2 {
      border:10px solid black;
