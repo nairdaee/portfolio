@@ -17,7 +17,8 @@
 }
 
 .line1 {
-    color:orangered
+    color:orangered;
+    font-size: larger;
 }
 .img{
     float:left
