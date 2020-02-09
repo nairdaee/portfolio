@@ -8,7 +8,7 @@ There are no known bugs.
 ## Technologies Used
 I used html and css languages in creating my project.
 ## Support and contact details
-In case of any questions,comments or issues please email me via etadriano2@gnail.com
+In case of any questions,comments or issues please email me via etadriano2@gmail.com
 ### License
 Copyright (c) {2020} Adrian Etenyi, Moringa School
 Licensed under the [MIT license](LICENSE)
