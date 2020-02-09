@@ -12,13 +12,15 @@
     color:orangered;
     font: 1em sans-serif;
     font-size:medium;
-    float:right
+    float:left;
     }
 }
 
 .line1 {
     color:orangered;
     font-size: larger;
+    text-decoration: underline;
+    font-weight:bolder;
 }
 .img{
     float:left
@@ -26,19 +28,19 @@
 .sidebar {
     float:left;
     width:50%;
-    background-color:rgb(12, 11, 11);
-    color: black
-    font-size:medium
+    background-color:rgb(24, 23, 23);
+    color: white;
+    font-size:medium;
 }
 .sidebar2 {
-    float:left;
-    width: 60%;
+    float:right;
+    width: 90%;
     background-color: orangered;
     font-size: large;
 
 }
 .testbox {
-    border:10px solid orangered;
+    border:2px solid orangered;
     padding:30px;
     margin:2px;
     background-color:black;
@@ -58,4 +60,12 @@
 .key {
     font-style: oblique;
     font-weight: bold;
+}
+.ending{
+    float: left;
+    width:100%;
+    background-color:black;
+    font-size: large;
+    font-weight: bold;
+    color:red;
 }
