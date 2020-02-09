@@ -11,4 +11,5 @@ I used html and css languages in creating my project.
 In case of any issues please email me via etadriano2@gnail.com
 ### License
 
-Copyright (c) {2020} **github
+Copyright (c) {2020} Adrian Etenyi, Moringa School
+Licensed under the [MIT license](LICENSE)
